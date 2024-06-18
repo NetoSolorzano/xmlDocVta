@@ -1,0 +1,11 @@
+﻿******************************************** 15/02/2024 INICIO NUEVA ESTRUCTURA ***********************************************
+Program, Adecuaciones para el nuevo código de detraccion 1004 (Detracción en transporte de carga)
+- Copiar versión anterior de la función usoUblDocVta como respaldo ............................................................ ok 15/02/2024
+- Estructura del XML en la parte de Detalle DETRACCIONES (InvoiceLine) ........................................................ ok 17/02/2024
+- Completar con datos obtenidos de SqlLite los tags de la nueva estructura .................................................... ok 17/02/2024
+- Variablilizar los tags, no debe haber hardcodeados .......................................................................... ok 17/02/2024
+- Arreglo de detalle, maximo 9 filas, otras correcciones varias ............................................................... ok 12/03/2024
+- Adecuaciones varias para cargas unicas, detracción, etc. .................................................................... ok 13/03/2024
+- Adecuaciones para bajas ..................................................................................................... ok 24/03/2024
+- Adecuaciones finales para notas de credito y bajas .......................................................................... ok 04/04/2024
+- Adecuaciones para Resumenes de Boletas - bajas, (anulaciones de boletas se deben hacer generando un resumen) ................ ok 02/05/2024
