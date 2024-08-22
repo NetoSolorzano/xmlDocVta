@@ -1783,7 +1783,7 @@ namespace xmlDocVta
             };
             _notcred.DiscrepancyResponse = new DisResp 
             { 
-                Description = new DescriptionType { Value = NtipNot }, 
+                Description = new DescriptionType { Value = motivoA }, // 21/08/2024 .... Value = NtipNot 
                 ResponseCode = new ResponseCodeType { listAgencyName = "PE:SUNAT", listName = "Tipo de nota de credito", listURI = "urn:pe:gob:sunat:cpe:see:gem:catalogos:catalogo09", Value = TipoNot }
             };
             _notcred.BillingReference = new BillRef 

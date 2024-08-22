@@ -9,3 +9,4 @@ Program, Adecuaciones para el nuevo código de detraccion 1004 (Detracción en t
 - Adecuaciones para bajas ..................................................................................................... ok 24/03/2024
 - Adecuaciones finales para notas de credito y bajas .......................................................................... ok 04/04/2024
 - Adecuaciones para Resumenes de Boletas - bajas, (anulaciones de boletas se deben hacer generando un resumen) ................ ok 02/05/2024
+- Metodo "UsoUBLnotCred" cambio en DiscrepancyResponse, el valor de la descripcion se cambio a motivoA ........................ ok 21/08/2024
